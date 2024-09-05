@@ -1,0 +1,45 @@
+.table{
+    width: 80%;
+    margin-left: 10%;
+}
+.table tr td button{
+    margin: 5px;
+}
+form input{
+    width: 100%;
+    margin-left: 20%;
+}
+form input button {
+    border: solid black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.form{
+    position: relative;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.form form input {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    width: 100%;
+}
+input button{
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    width: 100%;
+}
+form button{
+    margin-left: 30%;
+}
+form input{
+    width: 100%;
+}
